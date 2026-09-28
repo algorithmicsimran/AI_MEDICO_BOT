@@ -1,0 +1,6 @@
+medico_env/
+*.env
+medico_env/
+.env
+utils/.env
+__pycache__/
